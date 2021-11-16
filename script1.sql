@@ -1,0 +1,1 @@
+select username, account_status, lock_date,profile from dba_users;
